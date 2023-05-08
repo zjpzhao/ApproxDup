@@ -1,5 +1,7 @@
 ApproxDup
+
 ![](https://zenodo.org/badge/637791530.svg)
+
 We run ApproxDup on NVIDIA GeForce RTX 3090 platforms.
 The GPU driver is 530.30.02.
 The NVIDIA Toolkit is CUDA 11.0.
